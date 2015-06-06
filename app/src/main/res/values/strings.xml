@@ -2,7 +2,23 @@
 
     <string name="app_name">Sensores</string>
 
-    <string name="hello_world">Hello world!</string>
+    <string name="hello_world">Sensores de mi cel</string>
     <string name="action_settings">Settings</string>
 
+
+
+    <string name="Iniciar">INICIAR</string>
+    <string name="Detener">DETENER</string>
+    <string name="Limpiar">LIMPIAR</string>
+
+    <string name="Acelerometer">ACELEROMETRO</string>
+    <string name="Magnetic">CAMPO MAGNETICO</string>
+    <string name="Proximity">APROXIMACION</string>
+    <string name="Orientation">ORIENTACION</string>
+    <string name="Light">SENSOR DE LUZ</string>
+
 </resources>
+
+
+
+
